@@ -4,6 +4,7 @@ Aplicación frontend para gestión de notas de alumnos, desarrollada con React +
 
 ## Variables de Entorno
 
+Ubicandote en la carpeta frontend
 Crear archivo `.env` en la raíz del proyecto:
 
 ```env
